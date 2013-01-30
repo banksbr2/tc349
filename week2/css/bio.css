@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1 {
+	border-bottom:thick;
+	font-family:Verdana, Geneva, sans-serif;
+	font-style:oblique;
+	color: #360
+}
+
+p {
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+
+h2 {
+	font:"Times New Roman", Times, serif;
+}
