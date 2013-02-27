@@ -1,24 +1,38 @@
 @charset "UTF-8";
 /* CSS Document */
 
+footer {
+	font-size:9px;
+	text-align:center;
+}
 body {
 	width:500px;
 	margin: 1.5em auto;
 	padding: 3em;
 	font-family:Tahoma, Geneva, sans-serif;
-	border:medium solid #393;
+	color:#036;
+	border:thick solid #006;
 	background-color:#CCC;
+}
+#sidelink li {
+	float:left;
+	list-style:circle;
+	border-right-style:dotted #036;
+	
 }
 
 #top {
 	text-align:center;
+	width: 400px;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 #nav ul {
 	margin:0;
 	padding:0;
 	list-style-type:none;
-	border:solid #393;
+	
 }
 
 #nav li {
@@ -31,7 +45,7 @@ li {
 
 #index {
 	text-align:left;
-	background:#CCC
+	background:#CCC;
 }
 
 
