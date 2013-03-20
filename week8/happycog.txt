@@ -1,0 +1,9 @@
+Happy Cog Website
+
+Happy Cog has a basic color scheme, white red and black, but then there are many other colors scrolling down the page. I like it, it?s simple and the extra colors just make it less boring to view. 
+
+I thought that the site was a pretty simple build at first, and then I realized a few small details that interest me. The navigation bars starts off under the header, but once you scroll past the header, the horizontal navigation bar stays at the top of the browser scree. I think that is cool. 
+
+The navigation bar contains links to sections of that same page, not separate web pages. That makes everything easily searchable and requires less consumer navigating skills. However, some consumers and visitors might not like having all the info on one page like that. Either way, the navigation bar makes it very convenient to search the site. 
+
+
